@@ -2,7 +2,7 @@
 
 - Class Date: Feb 9 - 10, 2022
 - Facilitator: @AAugustine
-
+nfjsdkngjkd
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
